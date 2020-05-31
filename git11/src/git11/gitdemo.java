@@ -7,6 +7,7 @@ public class gitdemo {
 
 		
 		System.out.println("hello world");
+		system.out.println("end of world");
 	}
 
 }
